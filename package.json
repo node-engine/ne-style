@@ -1,0 +1,26 @@
+{
+  "name": "ne-style",
+  "version": "1.0.0",
+  "description": "A tool to help with styling Node Engine apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-engine/ne-style.git"
+  },
+  "keywords": [
+    "style",
+    "node-engine",
+    "stylus",
+    "lost",
+    "postcss"
+  ],
+  "author": "Bernard Hamann",
+  "license": "SEE LICENSE IN readme.md",
+  "bugs": {
+    "url": "https://github.com/node-engine/ne-style/issues"
+  },
+  "homepage": "https://github.com/node-engine/ne-style#readme"
+}
