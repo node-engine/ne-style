@@ -1,6 +1,6 @@
 {
   "name": "ne-style",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to help with styling Node Engine apps",
   "main": "index.js",
   "scripts": {
